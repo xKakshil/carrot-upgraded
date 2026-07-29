@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the path to your project
-PROJECT_DIR="/home/ec2-user/carrot-on-cloud/backend/db"
+PROJECT_DIR="/home/ec2-user/Carrot Upgraded/backend/db"
 LOG_DIR="/home/ec2-user/logs"
 LOG_FILE="$LOG_DIR/cron-$(date +\%Y-\%m-\%d).log"
 

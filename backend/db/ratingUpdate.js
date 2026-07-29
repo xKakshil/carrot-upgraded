@@ -12,7 +12,7 @@ async function getData() {
             },
             timeout: 30000,
             headers: {
-                "User-Agent": "carrot-on-cloud"
+                "User-Agent": "Carrot Upgraded"
             }
         }
     );

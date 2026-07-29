@@ -23,7 +23,7 @@ async function fetchUserData(retries = RETRY_ATTEMPTS) {
                     },
                     timeout: 30000,
                     headers: {
-                        "User-Agent": "carrot-on-cloud"
+                        "User-Agent": "Carrot Upgraded"
                     }
                 }
             );

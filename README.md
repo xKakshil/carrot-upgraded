@@ -279,7 +279,7 @@ By centralizing data fetching and computation while using the same proven FFT al
 
 ## 🔗 Links
 
-- **GitHub**: [https://github.com/Neverspot/carrot-on-cloud](https://github.com/Neverspot/carrot-on-cloud)
+- **GitHub**: [https://github.com/Neverspot/Carrot Upgraded](https://github.com/Neverspot/Carrot Upgraded)
 - **Original Carrot**: [https://github.com/meooow25/carrot](https://github.com/meooow25/carrot)
 - **Codeforces**: [https://codeforces.com](https://codeforces.com)
 

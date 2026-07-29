@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "carrot-upgraded",
+=======
+  "name": "Carrot Upgraded",
+>>>>>>> d0a3547 (just)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +14,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/xkakshil/carrot-upgraded.git"
+=======
+    "url": "https://github.com/NeverSpot/Carrot Upgraded.git"
+>>>>>>> d0a3547 (just)
   },
   "private": true,
   "dependencies": {
