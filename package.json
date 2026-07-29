@@ -1,5 +1,5 @@
 {
-  "name": "carrot-on-cloud",
+  "name": "carrot-upgraded",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeverSpot/carrot-on-cloud.git"
+    "url": "https://github.com/xkakshil/carrot-upgraded.git"
   },
   "private": true,
   "dependencies": {
