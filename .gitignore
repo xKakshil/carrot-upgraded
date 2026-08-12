@@ -1,0 +1,9 @@
+.env
+/node_modules/
+/RES.txt
+/node_modules
+WEB/node_modules/
+.next/
+WEB/.next/
+.DS_Store
+.idea/

@@ -1,0 +1,33 @@
+{
+  "name": "Carrot Upgraded",
+  "description": "Carrot with server",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_icon": "icon.png"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": [],
+
+  "host_permissions": [
+    "http://127.0.0.1:3000/*",
+    "https://codeforces.com/*"
+  ],
+
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "css": ["scripts/content.css"],
+      "matches": [
+        "https://codeforces.com/contest/*/standings*"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
