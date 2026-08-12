@@ -1,7 +1,7 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     console.log("Message received:", request);
 
-    fetch("http://127.0.0.1:3000/contest", {
+    fetch("https://carrot-upgraded.duckdns.org/contest", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

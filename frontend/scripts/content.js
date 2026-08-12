@@ -99,8 +99,8 @@ function updatePage(res){
     }
 }
 
-const testURL="http://127.0.0.1:3000/contest";
-const apiURL = "http://127.0.0.1:3000/contest";
+const testURL="https://carrot-upgraded.duckdns.org/contest";
+const apiURL = "https://carrot-upgraded.duckdns.org/contest";
 chrome.runtime.sendMessage(
     {
         type: "FETCH_CONTEST",
